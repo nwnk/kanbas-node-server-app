@@ -1,0 +1,29 @@
+{
+  "type": "module",
+  "name": "kanbas-node-server-app",
+  "version": "1.0.0",
+  "description": "kanbas node server app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwnk/kanbas-node-server-app.git"
+  },
+  "keywords": [
+    "squeamish",
+    "ossifrage"
+  ],
+  "author": "Adam Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nwnk/kanbas-node-server-app/issues"
+  },
+  "homepage": "https://github.com/nwnk/kanbas-node-server-app#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+
+}
