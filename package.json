@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/nwnk/kanbas-node-server-app#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.19.2"
   }
-
 }
